@@ -1,13 +1,26 @@
-# GitHub Practice
+# Hi, I'm Jonathan Naufal Farrel 👋
 
-## Student Information
+I'm an Informatics Engineering student at Universitas Dian Nuswantoro (UDINUS).
 
-- **Name:** Jonathan Naufal Farrel
-- **NIM:** A11.2023.15244
-- **Class:** DEV-02
-- **Course:** Bengkel Koding
+## About Me
 
-## Description
+- 🎓 Informatics Engineering Student
+- 💻 Interested in Web & Mobile Development
+- 🌐 Interested in Software Development
+- 📚 Currently improving my programming and development skills
 
-This repository is created as part of a GitHub practice assignment. 
-The assignment covers GitHub profile setup, repository creation, README documentation, and repository management.
+## Skills
+
+- PHP
+- Laravel
+- CodeIgniter
+- MySQL / MariaDB
+- HTML
+- CSS
+- JavaScript
+- Bootstrap
+- Tailwind CSS
+
+## Connect With Me
+
+- Portfolio: https://jonathannaufalfarrel.taplink.ws/
